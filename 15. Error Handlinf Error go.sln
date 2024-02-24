@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "15. Error Handlinf Error go", "15. Error Handlinf Error go.vbproj", "{DBE2116D-575C-4E4A-A371-03814FD9474E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBE2116D-575C-4E4A-A371-03814FD9474E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBE2116D-575C-4E4A-A371-03814FD9474E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBE2116D-575C-4E4A-A371-03814FD9474E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBE2116D-575C-4E4A-A371-03814FD9474E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {592434C2-68FB-48EA-BFF2-E25886D28140}
+	EndGlobalSection
+EndGlobal
